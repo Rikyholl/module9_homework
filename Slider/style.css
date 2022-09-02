@@ -21,7 +21,7 @@ a {
   margin-right: 50px;
 }
 .intro_col:last-child {
-  margin-right: -50px;
+  margin-left: -50px;
 }
 .intro_nav {
   font-family: 'Yeseva One', cursive;
